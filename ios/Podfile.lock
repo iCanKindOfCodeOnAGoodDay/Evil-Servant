@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - open_file (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - open_file (from `.symlinks/plugins/open_file/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  open_file:
+    :path: ".symlinks/plugins/open_file/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  open_file: 02eb5cb6b21264bd3a696876f5afbfb7ca4f4b7d
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.2
